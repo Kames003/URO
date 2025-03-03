@@ -1,4 +1,4 @@
-'''python
+```python
 
 from tkinter import Tk, Frame, Label, Entry, Button
 
@@ -140,3 +140,4 @@ btn2.pack(side="right", padx=10, pady=10)
 '''
 # Spustenie hlavnej slučky aplikácie
 top.mainloop()
+```
